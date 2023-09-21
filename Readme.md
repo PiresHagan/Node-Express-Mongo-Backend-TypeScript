@@ -86,7 +86,7 @@ export class UuidVO extends ValueObject<string> {
 
 1. Clone the repository: 
 ``` bash
-git clone https://github.com/Joeldev1021/Tweeter-backend.git 
+git clone https://github.com/PiresHagan/Node-Express-Mongo-Backend-TypeScript.git
 ```
 2. Install dependencies ⛏️
 ``` bash
